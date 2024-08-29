@@ -1,11 +1,11 @@
 {
   "sticker": {},
   "users": {
-    "24105114159@s.whatsapp.net": {
-      "vip": false,
+    "22555236730@s.whatsapp.net": {
+      "vip": true,
       "afkTime": -1,
       "afkReason": "",
-      "limit": 102,
+      "limit":900,
       "uang": 15300,
       "lastclaim": 1720772480134,
       "lastrampok": 1722006504001
